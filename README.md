@@ -1,6 +1,6 @@
 # LinkedIn AutoConnect Chrome Extension
 
-This Chrome extension automates sending LinkedIn connection requests while providing a live counter of sent requests displayed inside a loading spinner.
+This Chrome extension automates sending LinkedIn connection requests while providing a live count of requests sent.
 
 ## Features
 - Automates sending LinkedIn connection requests.
