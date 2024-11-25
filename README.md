@@ -37,9 +37,9 @@ Follow these steps to install and run the extension locally:
 
 ### Understanding the problem statement
 The goal of the script was to automate sending LinkedIn connection requests while maintaining user control (ability to start/stop the process) and providing a live progress indicator. These requirements guided the architecture:
--A popup UI for user interaction.
--Acontent script to interact with the webpage.
--A background script to manage communication between components.
+- A popup UI for user interaction.
+- A content script to interact with the webpage.
+- A background script to manage communication between components.
 
 ### Architecture Overview
 The project is designed with a modular approach:
